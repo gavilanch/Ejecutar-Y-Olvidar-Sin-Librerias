@@ -1,4 +1,4 @@
-# Código del video: Ejecutar y olvidar Sin Librerías
+# Código del video: Ejecutar y Olvidar Sin Librerías
 
 Video: https://youtu.be/c5z9BJD6weM
 
